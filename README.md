@@ -77,7 +77,9 @@ Through this project I practiced:
 * Observability and tracing
 * Agent orchestration
 * Cloud-native AI workflows
-  
+
+---
+
 👩‍💻 Author
 Beyza Uzun
 
